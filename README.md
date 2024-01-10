@@ -1,0 +1,1 @@
+It's a weather application. I have used technologies like HTML, CSS and Javascript in this project. And also i have used online public weather API to get the current weather appliaction of the cities.
